@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LaraECom/.idea/LaraECom.iml" filepath="$PROJECT_DIR$/../LaraECom/.idea/LaraECom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LaraSchool/.idea/LaraSchool.iml" filepath="$PROJECT_DIR$/../LaraSchool/.idea/LaraSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laravel6/.idea/Laravel6.iml" filepath="$PROJECT_DIR$/../Laravel6/.idea/Laravel6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LaravelAjax/.idea/LaravelAjax.iml" filepath="$PROJECT_DIR$/../LaravelAjax/.idea/LaravelAjax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lara.iml" filepath="$PROJECT_DIR$/.idea/lara.iml" />
+    </modules>
+  </component>
+</project>
